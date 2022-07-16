@@ -1,3 +1,6 @@
+# create file .env in root
+REACT_APP_API_TOKEN=token-generado
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
